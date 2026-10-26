@@ -1,5 +1,5 @@
 <h1 align="center">Hallo 🙇🏻, I'm Siddharth Dhawan 🧑🏻‍💼🔆</h1>
-<h3 align="center">Full-Stack AI Engineer | Building & Shipping with Agentic AI</h3>
+<h3 align="center">Full-Stack AI Engineer | Building & Shipping with Agentic AI | AI Motion Graphics</h3>
 
 - 🚀 I’m currently building and shipping full-stack web applications using **Agentic AI workflows** and **Antigravity**
 - 🌱 I’m self-learning core programming languages while using **AI Agents & Advanced Prompt Engineering** to go from idea to production fast
