@@ -8,7 +8,7 @@
 - 📫 How to reach me: **[siddh2803@gmail.com](mailto:siddh2803@gmail.com)**
 - 🎮 Check out: **[https://studio361.games](https://studio361.games)**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me here:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/siddharth-dhawan-582b2a240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
