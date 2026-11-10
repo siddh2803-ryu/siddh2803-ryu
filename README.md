@@ -27,7 +27,7 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
   <a href="https://playwright.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="playwright" width="40" height="40"/></a>
   <a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/polygon/polygon-original.svg" alt="polygon" width="40" height="40"/></a>
-  <a href="https://ethereum.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-icon.svg" alt="ethereum" width="40" height="40"/></a>
+  <a href="https://ethereum.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="ethereum" width="40" height="40"/></a>
   <a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hardhat/hardhat-original.svg" alt="hardhat" width="40" height="40"/></a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
   <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/></a>
@@ -36,8 +36,8 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddh2803-ryu&show_icons=true&locale=en&layout=compact&theme=dark" alt="siddh2803-ryu Top Languages" /></p>
+<p><img align="left" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=siddh2803-ryu&show_icons=true&locale=en&layout=compact&theme=dark" alt="siddh2803-ryu Top Languages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddh2803-ryu&show_icons=true&locale=en&count_private=true&theme=dark" alt="siddh2803-ryu GitHub Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=siddh2803-ryu&show_icons=true&locale=en&count_private=true&theme=dark" alt="siddh2803-ryu GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddh2803-ryu&" alt="siddh2803-ryu GitHub Streak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddh2803-ryu&theme=dark" alt="siddh2803-ryu GitHub Streak" /></p>
