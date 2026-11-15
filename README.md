@@ -46,8 +46,12 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=siddh2803-ryu&show_icons=true&locale=en&layout=compact&theme=dark" alt="siddh2803-ryu Top Languages" /></p>
+<h3 align="left">GitHub Analytics:</h3>
+<p align="left">
+  <img align="left" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=siddh2803-ryu&show_icons=true&locale=en&layout=compact&theme=dark" alt="siddh2803-ryu Top Languages" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=siddh2803-ryu&show_icons=true&locale=en&count_private=true&theme=dark" alt="siddh2803-ryu GitHub Stats" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=siddh2803-ryu&show_icons=true&locale=en&count_private=true&theme=dark" alt="siddh2803-ryu GitHub Stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddh2803-ryu&theme=dark" alt="siddh2803-ryu GitHub Streak" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddh2803-ryu&theme=dark" alt="siddh2803-ryu GitHub Streak" />
+</p>
